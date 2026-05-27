@@ -1,0 +1,169 @@
+<svg class="rich-terminal" viewBox="0 0 1299 708.8" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-295893848-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-295893848-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-295893848-r1 { fill: #4ec9b0;font-weight: bold }
+.terminal-295893848-r2 { fill: #d4d4d4;font-weight: bold }
+.terminal-295893848-r3 { fill: #c5c8c6 }
+.terminal-295893848-r4 { fill: #6a9955 }
+.terminal-295893848-r5 { fill: #4ec94e;font-weight: bold }
+.terminal-295893848-r6 { fill: #56b6c2 }
+.terminal-295893848-r7 { fill: #56b6c2;font-weight: bold }
+.terminal-295893848-r8 { fill: #808080 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-295893848-clip-terminal">
+      <rect x="0" y="0" width="1280.0" height="657.8" />
+    </clipPath>
+    <clipPath id="terminal-295893848-line-0">
+    <rect x="0" y="1.5" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-1">
+    <rect x="0" y="25.9" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-2">
+    <rect x="0" y="50.3" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-3">
+    <rect x="0" y="74.7" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-4">
+    <rect x="0" y="99.1" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-5">
+    <rect x="0" y="123.5" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-6">
+    <rect x="0" y="147.9" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-7">
+    <rect x="0" y="172.3" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-8">
+    <rect x="0" y="196.7" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-9">
+    <rect x="0" y="221.1" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-10">
+    <rect x="0" y="245.5" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-11">
+    <rect x="0" y="269.9" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-12">
+    <rect x="0" y="294.3" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-13">
+    <rect x="0" y="318.7" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-14">
+    <rect x="0" y="343.1" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-15">
+    <rect x="0" y="367.5" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-16">
+    <rect x="0" y="391.9" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-17">
+    <rect x="0" y="416.3" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-18">
+    <rect x="0" y="440.7" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-19">
+    <rect x="0" y="465.1" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-20">
+    <rect x="0" y="489.5" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-21">
+    <rect x="0" y="513.9" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-22">
+    <rect x="0" y="538.3" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-23">
+    <rect x="0" y="562.7" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-24">
+    <rect x="0" y="587.1" width="1281" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-295893848-line-25">
+    <rect x="0" y="611.5" width="1281" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1297" height="706.8" rx="8"/><text class="terminal-295893848-title" fill="#c5c8c6" text-anchor="middle" x="648" y="27">nvidia@nvidia-desktop:&#160;~/build-your-personal-rag</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-295893848-clip-terminal)">
+    
+    <g class="terminal-295893848-matrix">
+    <text class="terminal-295893848-r1" x="0" y="20" textLength="24.4" clip-path="url(#terminal-295893848-line-0)">$&#160;</text><text class="terminal-295893848-r2" x="24.4" y="20" textLength="1207.8" clip-path="url(#terminal-295893848-line-0)">python3&#160;rag_query.py&#160;--query&#160;&quot;Why&#160;does&#160;IoU-based&#160;label&#160;assignment&#160;perform&#160;poorly&#160;for&#160;tiny&#160;objects?&quot;</text><text class="terminal-295893848-r3" x="1281" y="20" textLength="12.2" clip-path="url(#terminal-295893848-line-0)">
+</text><text class="terminal-295893848-r3" x="1281" y="44.4" textLength="12.2" clip-path="url(#terminal-295893848-line-1)">
+</text><text class="terminal-295893848-r4" x="0" y="68.8" textLength="317.2" clip-path="url(#terminal-295893848-line-2)">[INFO]&#160;Embedding&#160;query&#160;...</text><text class="terminal-295893848-r3" x="1281" y="68.8" textLength="12.2" clip-path="url(#terminal-295893848-line-2)">
+</text><text class="terminal-295893848-r4" x="0" y="93.2" textLength="414.8" clip-path="url(#terminal-295893848-line-3)">[INFO]&#160;Retrieving&#160;top-5&#160;chunks&#160;...</text><text class="terminal-295893848-r3" x="1281" y="93.2" textLength="12.2" clip-path="url(#terminal-295893848-line-3)">
+</text><text class="terminal-295893848-r4" x="0" y="117.6" textLength="341.6" clip-path="url(#terminal-295893848-line-4)">[INFO]&#160;Generating&#160;answer&#160;...</text><text class="terminal-295893848-r3" x="1281" y="117.6" textLength="12.2" clip-path="url(#terminal-295893848-line-4)">
+</text><text class="terminal-295893848-r3" x="1281" y="142" textLength="12.2" clip-path="url(#terminal-295893848-line-5)">
+</text><text class="terminal-295893848-r5" x="0" y="166.4" textLength="134.2" clip-path="url(#terminal-295893848-line-6)">[Assistant]</text><text class="terminal-295893848-r3" x="134.2" y="166.4" textLength="890.6" clip-path="url(#terminal-295893848-line-6)">&#160;IoU-based&#160;(Intersection&#160;over&#160;Union)&#160;label&#160;assignment&#160;performs&#160;poorly&#160;for</text><text class="terminal-295893848-r3" x="1281" y="166.4" textLength="12.2" clip-path="url(#terminal-295893848-line-6)">
+</text><text class="terminal-295893848-r3" x="0" y="190.8" textLength="622.2" clip-path="url(#terminal-295893848-line-7)">tiny&#160;objects&#160;because&#160;of&#160;several&#160;fundamental&#160;issues:</text><text class="terminal-295893848-r3" x="1281" y="190.8" textLength="12.2" clip-path="url(#terminal-295893848-line-7)">
+</text><text class="terminal-295893848-r3" x="1281" y="215.2" textLength="12.2" clip-path="url(#terminal-295893848-line-8)">
+</text><text class="terminal-295893848-r3" x="0" y="239.6" textLength="976" clip-path="url(#terminal-295893848-line-9)">1.&#160;Zero&#160;IoU&#160;for&#160;non-overlapping&#160;predictions:&#160;a&#160;predicted&#160;box&#160;2&#160;pixels&#160;from&#160;a&#160;5x5</text><text class="terminal-295893848-r3" x="1281" y="239.6" textLength="12.2" clip-path="url(#terminal-295893848-line-9)">
+</text><text class="terminal-295893848-r3" x="0" y="264" textLength="1012.6" clip-path="url(#terminal-295893848-line-10)">&#160;&#160;&#160;ground-truth&#160;box&#160;has&#160;IoU&#160;=&#160;0&#160;despite&#160;being&#160;geometrically&#160;close,&#160;so&#160;training&#160;gets</text><text class="terminal-295893848-r3" x="1281" y="264" textLength="12.2" clip-path="url(#terminal-295893848-line-10)">
+</text><text class="terminal-295893848-r3" x="0" y="288.4" textLength="292.8" clip-path="url(#terminal-295893848-line-11)">&#160;&#160;&#160;no&#160;gradient&#160;signal.&#160;&#160;</text><text class="terminal-295893848-r6" x="292.8" y="288.4" textLength="585.6" clip-path="url(#terminal-295893848-line-11)">[Source:&#160;paper_03_nwd_wasserstein.md,&#160;chunk&#160;5/8]</text><text class="terminal-295893848-r3" x="1281" y="288.4" textLength="12.2" clip-path="url(#terminal-295893848-line-11)">
+</text><text class="terminal-295893848-r3" x="1281" y="312.8" textLength="12.2" clip-path="url(#terminal-295893848-line-12)">
+</text><text class="terminal-295893848-r3" x="0" y="337.2" textLength="1000.4" clip-path="url(#terminal-295893848-line-13)">2.&#160;High&#160;sensitivity&#160;to&#160;small&#160;displacements:&#160;translating&#160;a&#160;4x4&#160;box&#160;by&#160;even&#160;a&#160;single</text><text class="terminal-295893848-r3" x="1281" y="337.2" textLength="12.2" clip-path="url(#terminal-295893848-line-13)">
+</text><text class="terminal-295893848-r3" x="0" y="361.6" textLength="488" clip-path="url(#terminal-295893848-line-14)">&#160;&#160;&#160;pixel&#160;can&#160;drop&#160;IoU&#160;from&#160;1.0&#160;to&#160;0.0.&#160;&#160;</text><text class="terminal-295893848-r6" x="488" y="361.6" textLength="658.8" clip-path="url(#terminal-295893848-line-14)">[Source:&#160;paper_02_rfla_label_assignment.md,&#160;chunk&#160;4/9]</text><text class="terminal-295893848-r3" x="1281" y="361.6" textLength="12.2" clip-path="url(#terminal-295893848-line-14)">
+</text><text class="terminal-295893848-r3" x="1281" y="386" textLength="12.2" clip-path="url(#terminal-295893848-line-15)">
+</text><text class="terminal-295893848-r3" x="0" y="410.4" textLength="915" clip-path="url(#terminal-295893848-line-16)">3.&#160;IoU&#160;ignores&#160;scale&#160;context:&#160;two&#160;4x4&#160;boxes&#160;3&#160;pixels&#160;apart&#160;should&#160;be&#160;scored</text><text class="terminal-295893848-r3" x="1281" y="410.4" textLength="12.2" clip-path="url(#terminal-295893848-line-16)">
+</text><text class="terminal-295893848-r3" x="0" y="434.8" textLength="1000.4" clip-path="url(#terminal-295893848-line-17)">&#160;&#160;&#160;differently&#160;from&#160;two&#160;400x400&#160;boxes&#160;the&#160;same&#160;distance&#160;apart,&#160;but&#160;IoU&#160;treats&#160;them</text><text class="terminal-295893848-r3" x="1281" y="434.8" textLength="12.2" clip-path="url(#terminal-295893848-line-17)">
+</text><text class="terminal-295893848-r3" x="0" y="459.2" textLength="207.4" clip-path="url(#terminal-295893848-line-18)">&#160;&#160;&#160;identically.&#160;&#160;</text><text class="terminal-295893848-r6" x="207.4" y="459.2" textLength="585.6" clip-path="url(#terminal-295893848-line-18)">[Source:&#160;paper_03_nwd_wasserstein.md,&#160;chunk&#160;5/8]</text><text class="terminal-295893848-r3" x="1281" y="459.2" textLength="12.2" clip-path="url(#terminal-295893848-line-18)">
+</text><text class="terminal-295893848-r3" x="1281" y="483.6" textLength="12.2" clip-path="url(#terminal-295893848-line-19)">
+</text><text class="terminal-295893848-r7" x="0" y="508" textLength="597.8" clip-path="url(#terminal-295893848-line-20)">--&#160;Sources&#160;--------------------------------------</text><text class="terminal-295893848-r3" x="1281" y="508" textLength="12.2" clip-path="url(#terminal-295893848-line-20)">
+</text><text class="terminal-295893848-r3" x="0" y="532.4" textLength="634.4" clip-path="url(#terminal-295893848-line-21)">&#160;&#160;[1]&#160;paper_02_rfla_label_assignment.md&#160;&#160;chunk&#160;2/9&#160;&#160;</text><text class="terminal-295893848-r8" x="634.4" y="532.4" textLength="231.8" clip-path="url(#terminal-295893848-line-21)">(similarity=0.7241)</text><text class="terminal-295893848-r3" x="1281" y="532.4" textLength="12.2" clip-path="url(#terminal-295893848-line-21)">
+</text><text class="terminal-295893848-r3" x="0" y="556.8" textLength="634.4" clip-path="url(#terminal-295893848-line-22)">&#160;&#160;[2]&#160;paper_02_rfla_label_assignment.md&#160;&#160;chunk&#160;4/9&#160;&#160;</text><text class="terminal-295893848-r8" x="634.4" y="556.8" textLength="231.8" clip-path="url(#terminal-295893848-line-22)">(similarity=0.7163)</text><text class="terminal-295893848-r3" x="1281" y="556.8" textLength="12.2" clip-path="url(#terminal-295893848-line-22)">
+</text><text class="terminal-295893848-r3" x="0" y="581.2" textLength="427" clip-path="url(#terminal-295893848-line-23)">&#160;&#160;[3]&#160;paper_11_atss.md&#160;&#160;chunk&#160;8/8&#160;&#160;</text><text class="terminal-295893848-r8" x="427" y="581.2" textLength="231.8" clip-path="url(#terminal-295893848-line-23)">(similarity=0.6872)</text><text class="terminal-295893848-r3" x="1281" y="581.2" textLength="12.2" clip-path="url(#terminal-295893848-line-23)">
+</text><text class="terminal-295893848-r3" x="0" y="605.6" textLength="427" clip-path="url(#terminal-295893848-line-24)">&#160;&#160;[4]&#160;paper_12_fcos.md&#160;&#160;chunk&#160;5/7&#160;&#160;</text><text class="terminal-295893848-r8" x="427" y="605.6" textLength="231.8" clip-path="url(#terminal-295893848-line-24)">(similarity=0.6328)</text><text class="terminal-295893848-r3" x="1281" y="605.6" textLength="12.2" clip-path="url(#terminal-295893848-line-24)">
+</text><text class="terminal-295893848-r3" x="0" y="630" textLength="561.2" clip-path="url(#terminal-295893848-line-25)">&#160;&#160;[5]&#160;paper_03_nwd_wasserstein.md&#160;&#160;chunk&#160;5/8&#160;&#160;</text><text class="terminal-295893848-r8" x="561.2" y="630" textLength="231.8" clip-path="url(#terminal-295893848-line-25)">(similarity=0.6237)</text><text class="terminal-295893848-r3" x="1281" y="630" textLength="12.2" clip-path="url(#terminal-295893848-line-25)">
+</text><text class="terminal-295893848-r7" x="0" y="654.4" textLength="597.8" clip-path="url(#terminal-295893848-line-26)">-------------------------------------------------</text><text class="terminal-295893848-r3" x="1281" y="654.4" textLength="12.2" clip-path="url(#terminal-295893848-line-26)">
+</text>
+    </g>
+    </g>
+</svg>

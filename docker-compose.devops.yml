@@ -1,0 +1,54 @@
+# Local DevOps stack: Jenkins + SonarQube + Nexus.
+# Run on a workstation or server (NOT the Jetson - these are heavy JVM apps).
+#   docker compose -f docker-compose.devops.yml up -d
+#
+# Jenkins   http://localhost:8080
+# SonarQube http://localhost:9000   (default admin/admin)
+# Nexus     http://localhost:8081   (Docker hosted registry exposed on :8082)
+
+services:
+  jenkins:
+    image: jenkins/jenkins:lts
+    user: root                       # so the agent can run docker (mounts host socket)
+    ports:
+      - "8080:8080"
+      - "50000:50000"
+    volumes:
+      - jenkins_home:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: unless-stopped
+
+  sonarqube:
+    image: sonarqube:community
+    ports:
+      - "9000:9000"
+    environment:
+      SONAR_JDBC_URL: jdbc:postgresql://sonar-db:5432/sonar
+      SONAR_JDBC_USERNAME: sonar
+      SONAR_JDBC_PASSWORD: sonar
+    depends_on: [sonar-db]
+    restart: unless-stopped
+
+  sonar-db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: sonar
+      POSTGRES_PASSWORD: sonar
+      POSTGRES_DB: sonar
+    volumes:
+      - sonar_db:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  nexus:
+    image: sonatype/nexus3
+    ports:
+      - "8081:8081"      # web UI + maven/pypi repos
+      - "8082:8082"      # Docker hosted registry (create this repo in the UI)
+    volumes:
+      - nexus_data:/nexus-data
+    restart: unless-stopped
+
+volumes:
+  jenkins_home:
+  sonar_db:
+  nexus_data:

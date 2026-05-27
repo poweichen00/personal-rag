@@ -1,0 +1,16 @@
+.venv/
+chroma_db/
+data/processed/
+data/.file_hashes.json
+__pycache__/
+**/__pycache__/
+*.pyc
+.git/
+.github/
+tests/
+conftest.py
+assets/
+*.md
+.env
+.env.*
+!.env.example
